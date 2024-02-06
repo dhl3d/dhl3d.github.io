@@ -467,6 +467,7 @@
 }
 
 .paper-sub-institute{
+    flex-direction: column;
     display: flex;
 }
 
