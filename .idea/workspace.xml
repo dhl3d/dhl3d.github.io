@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85e0f9e4-5ec9-4253-9eac-6a7e04620ae2" name="Changes" comment="new update" />
+    <list default="true" id="85e0f9e4-5ec9-4253-9eac-6a7e04620ae2" name="Changes" comment="new update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yuheng/Desktop/Deep Hierarchical Learning Website/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yuheng/Desktop/Deep Hierarchical Learning Website&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,6 +61,8 @@
       <workItem from="1707205075245" duration="64000" />
       <workItem from="1709705322675" duration="47000" />
       <workItem from="1718040183944" duration="60000" />
+      <workItem from="1721471499889" duration="30000" />
+      <workItem from="1741306158500" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1701184279161</created>
@@ -115,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718040236969</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new update">
+      <created>1721471513130</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721471513130</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
